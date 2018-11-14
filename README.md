@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/arbulu89/pyproject-template.svg?branch=master)](https://travis-ci.org/arbulu89/pyproject-template)
+
 # Project template
 The aim of this project is to show how a project should be started from scratch
 containing all of the recommended files and folder.
