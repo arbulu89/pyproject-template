@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/arbulu89/pyproject-template.svg?branch=master)](https://travis-ci.org/arbulu89/pyproject-template)
+[![Coverage Status](https://coveralls.io/repos/github/arbulu89/pyproject-template/badge.svg)](https://coveralls.io/github/arbulu89/pyproject-template)
 
 # Project template
 The aim of this project is to show how a project should be started from scratch
