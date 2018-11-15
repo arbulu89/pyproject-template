@@ -77,6 +77,15 @@ class TestMyModule(unittest.TestCase):
             mock.call('%d: %s', 3, 25)
         ])
 
+    def test_first_value(self):
+        self._test_module._my_values.append(5)
+        value = self._test_module.first_value()
+        self.assertEqual(5, value)
+
+    def test_first_value_empty(self):
+        with self.assertRaises(IndexError):
+            self._test_module.first_value()
+
     @mock.patch('logging.Logger.info')
     def test_welcome(self, logger):
         utils.welcome('xarbulu')

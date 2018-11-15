@@ -39,3 +39,15 @@ class MyModule:
         """
         for i, value in enumerate(self._my_values):
             self._logger.info('%d: %s', i+1, value)
+
+    def first_value(self):
+        """
+        Returns first value of my_values` list
+
+        Returns:
+            any: First value of my_values` list
+        Raises:
+            IndexError: my_values` list is empty
+        """
+
+        return self._my_values[0]
