@@ -8,7 +8,7 @@
 
 import logging
 
-class MyModule(object):
+class MyModule:
     """
     Example module to show have to create a new one
     """

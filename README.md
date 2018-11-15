@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/arbulu89/pyproject-template.svg?branch=master)](https://travis-ci.org/arbulu89/pyproject-template)
 [![Coverage Status](https://coveralls.io/repos/github/arbulu89/pyproject-template/badge.svg)](https://coveralls.io/github/arbulu89/pyproject-template)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e79842346d4486badef0b2b271f6361)](https://www.codacy.com/app/arbulu89/pyproject-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arbulu89/pyproject-template&amp;utm_campaign=Badge_Grade)
 
 # Project template
 The aim of this project is to show how a project should be started from scratch
